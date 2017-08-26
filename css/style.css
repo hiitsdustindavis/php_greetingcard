@@ -1,0 +1,42 @@
+body {
+  background-color: darkviolet;
+  width: 100vw;
+  height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, li, span, strong, em, label {
+  color: linen;
+  font-family: Helvetica, sans-serif;
+}
+
+.btn {
+  background: palegreen;
+  color: #333;
+}
+
+.huge-text {
+  font-size: 80px;
+}
+
+[class^='text-highlight'] {
+  padding: 0.25rem;
+  color: #333;
+  border-radius: 4px;
+}
+
+
+.text-highlight-green {
+  background: palegreen;
+}
+
+.text-highlight-salmon {
+  background: lightsalmon;
+}
+
+.image {
+  width: 400px;
+}
+
+.image img {
+  width: 100%
+}
